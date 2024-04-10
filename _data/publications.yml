@@ -4,8 +4,8 @@ main:
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2404.00299.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    code: https://juzezhang.github.io/HOIM3_ProjectPage/
     page: https://juzezhang.github.io/HOIM3_ProjectPage/
     bibtex: https://juzezhang.github.io/HOIM3_ProjectPage/
     notes: Poster (Highlight)
-    image: ./assets/img/t-hoi.gif
+    image: ./assets/img/HOIM3.jpg
