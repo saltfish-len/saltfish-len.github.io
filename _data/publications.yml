@@ -16,6 +16,6 @@ main:
     conference: EECS 182/282A | Deep Neural Networks, UC Berkeley, 2023.
     pdf: assets/files/ControlledDreamGaussian.pdf
     code: https://github.com/KevinXu02/controlled-dreamgaussian
-    page: https://clarivy.github.io/ControlledDreamGaussian/
+    page: ./ControlledDreamGaussian_ProjectPage
     bibtex: https://clarivy.github.io/ControlledDreamGaussian/
     image: ./assets/img/ControlledDreamGaussian.jpeg
