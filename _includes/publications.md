@@ -32,6 +32,7 @@
       {% endif %}
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      {% endif %}
       {% if link.post %} 
       <a href="{{ link.post }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Post</a>
       {% endif %}
