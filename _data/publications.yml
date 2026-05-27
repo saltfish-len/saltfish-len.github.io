@@ -1,7 +1,7 @@
 main:
   - title: "Physics-Aware Representation Learning for Physical Systems"
     authors: Charles Cheng Ji*, <strong>Zhanhe Shi</strong>*, Richard Wang*, Romina Yalovetzky*
-    conference_short: NYU DL
+    conference_short: Course Project
     conference: NYU CSCI-GA 2572 Deep Learning Course Project, Spring 2026.
     pdf: https://saltfish-len.github.io/Physics-Aware-Project-Page/static/pdfs/paper.pdf
     code: https://github.com/rominay/DL_project
