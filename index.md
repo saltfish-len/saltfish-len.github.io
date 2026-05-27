@@ -8,7 +8,7 @@ I am a graduate student in the MS in Information Systems program at New York Uni
 
 ## Research Interests
 
-Inspired by NYU's Deep Learning course, I am currently interested in **JEPA architectures** and **world models**, particularly in how to describe and learn a good **representation**.
+Inspired by NYU's Deep Learning course, I am currently interested in **JEPA architectures** and **world models**, particularly in how to **describe** and **learn** a good **representation**.
 
 ## Education
 
